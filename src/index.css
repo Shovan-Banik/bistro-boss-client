@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.carousel{
-    text-align: center;
+.drawer-side a.active{
+    color: aliceblue;
+}
+.drawer-side a{
+    background-color: transparent;
 }
